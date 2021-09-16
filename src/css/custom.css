@@ -1,0 +1,71 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+ /* effing with fonts
+@import url('https://fonts.googleapis.com/css?family=Teko:400');
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic');
+*/
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #00BED5;
+  --ifm-color-primary-dark: #F5B700;
+  --ifm-color-primary-darker: #00BED5;
+  --ifm-color-primary-darkest: #FF681F;
+  --ifm-color-primary-light: #F5B700;
+  --ifm-color-primary-lighter: #DADBDC;
+  --ifm-color-primary-lightest: #F4F4F4;
+
+  /* Testing Below */
+  --ifm-menu-color-active: var(--ifm-color-primary-dark);
+  --ifm-button-background-color: #002677;
+  --ifm-button-color: #000;
+  --ifm-hero-background-color: var(--ifm-color-primary);
+  --ifm-hero-text-color: var(--ifm-button-color);
+  --ifm-button-border-width: 0px;
+  --ifm-footer-link-hover-color: #FFFFFF;
+  --ifm-navbar-link-color: #FFFFFF;
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary-dark);
+  --ifm-navbar-background-color: #002677;
+  --ifm-color-light: #FFF6F2;
+  --ifm-font-weight-semibold: 400;
+  --ifm-navbar-item-padding-horizontal: 76px;
+  --ifm-navbar-height: auto;
+  --image-alignment-padding: 1.5rem;
+  --ifm-heading-font-weight: 400;
+  --ifm-font-family-base: 'Arial', 'system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'Ubuntu', 'Cantarell', 'Noto Sans', 'sans-serif', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica', 'sans-serif', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+.navbar__title {
+  font-size: 1.25rem;
+  font-family: 'Georgia Bold', serif;
+  color: var(--ifm-navbar-link-color);
+}
+
+
+.docTitle_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocItem- {
+  font-family: 'Georgia', serif;
+}
+
+.hero__title {
+  font-size: 4rem;
+  font-family: 'Georgia Bold', serif;
+  color: var(--ifm-button-background-color);
+}
+
+.button.button--secondary.button--outline:not(.button--active):not(:hover) {
+  color: #F5B700;
+}
+
+.button.button--secondary.button--outline:hover {
+  color: #002677;
+}
+
+.navbar-highlight{
+  color: #000;
+}
