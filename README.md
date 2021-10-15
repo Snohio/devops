@@ -2,11 +2,12 @@
 
 ## Introduction
 
-This is a presentation for leadership within UnitedHealth Group and beyond. It is, more or less, a slide deck written as documentation as code using Docusaurus as it's generation engine, modelled after a training site I created in the past. This method is to allow for modifications as code, and have a DevOps feel as it is *as code*. It is intended to be a four part, 30ish minute per part presentation given over a period of a week or a month, or just follow along and through at your own pace, kinda.
+This is a presentation for leadership planned for my former employer and beyond. It is, more or less, a slide deck written as documentation as code using Docusaurus as it's generation engine, modelled after a training site I created in the past. This method is to allow for modifications as code, and have a DevOps feel as it is *as code*. It is intended to be a four part, 30ish minute per part presentation given over a period of a week or a month, or just follow along and through at your own pace, kinda.
 
 This presentation is very business-agnostic, stripped of references to organizations, people, places, etc. in order that it may be used beyond UHG such as DevOps Conferences. One (or some) tool(s) are named because this is really is about my experiences with DevOps as it is tied to Chef specifically. The takeaways here are that you can substitute Chef for many tools (Puppet, Ansible, Jenkins, GitHub, any tool that enables DevOps practices,) but my experience is around Chef - and to be honest, I really like Chef as a product.
 
-> This is in no way an endorsement for Chef from UnitedHealth Group or any of it's subsidies.
+The overview of the presentation is [here](overview.md) and I hope to have it completed by years end to present in 2022.
+___
 
 ## MD Tools
 
