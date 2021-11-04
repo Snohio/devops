@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://snohio.github.io/devops/blog</id>
+    <id>https://snohio.github.io/blog</id>
     <title>My DevOps Journey with Chef Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://snohio.github.io/devops/blog"/>
+    <link rel="alternate" href="https://snohio.github.io/blog"/>
     <subtitle>My DevOps Journey with Chef Blog</subtitle>
-    <icon>https://snohio.github.io/devops/img/devops.ico</icon>
+    <icon>https://snohio.github.io/img/devops.ico</icon>
 </feed>
