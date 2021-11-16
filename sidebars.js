@@ -1,8 +1,8 @@
 module.exports = {
-  sageBegins: {
-    'The Saga Begins': ['journey/begins','journey/aha'],
+  sagaBegins: {
+    'The Saga Begins': ['journey/begins','journey/history','journey/hpsa','journey/foglight','journey/aha','journey/chef'],
   },
-  forceAwakens: {
-    'The Force Awakens': ['devops/awakens'],
+  awakenings: {
+    'DevOps Awakenings': ['devops/awakens'],
   }
 };

@@ -5,10 +5,10 @@ module.exports = {
     },
     title: 'My DevOps Journey with Chef',
     tagline: 'Four Part Series of the DevOps Journey with Chef by Mike Butler',
-    url: 'https://github.optum.com/pages/mbutl11/devops',
-    baseUrl: '/',
+    url: 'https://snohio.github.io/devops/',
+    baseUrl: '/devops/',
     favicon: 'img/devops.ico',
-    organizationName: 'mbutl11', // Usually your GitHub org/user name.
+    organizationName: 'snohio', // Usually your GitHub org/user name.
     projectName: 'devops', // Usually your repo name.
     onBrokenLinks: 'ignore',
 
@@ -37,7 +37,7 @@ module.exports = {
                 docs: {
                     // It is recommended to set document id as docs home page (`docs/` path).
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.optum.com/mbutl11/devops/',
+                    editUrl: 'https://github.com/snohio/devops/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),

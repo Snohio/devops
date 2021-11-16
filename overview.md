@@ -4,6 +4,11 @@
 
 ## Mike's DevOps Transformation Experiences presentation
 
+- Introduction
+- Background on how we worked.
+  - Developers / Applications Teams and OS Managed Services
+  - HPSA Model of Work (Our deploying and upgrading of tools and services on Servers)
+  - Scale and cost cutting became a problem.
 - When I got the Aha Moment
 - How I build the team around a DevOps model
   - Including International efforts
@@ -14,14 +19,12 @@
   - Stand-ups, Demos, Celebrations, Retrospectives, Post Incident Reviews
     - Some of this is easier in theory than practice.
     - This is the stuff that really takes practice.
-- HPSA Model of Work
 - My mantras
   - No Handoffs.
   - Make Work Visible to Everyone.
   - Communication Makes the Team Work!
 
 ## How DevOps help drive Chef
-
 
 - Development of DoesAPI - What it started as, what it became
 - Chef Pipeline and the Jenkins Rebuild from Scratch story

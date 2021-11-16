@@ -37,7 +37,7 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <br></br>
-          <p><img src="../img/Embracing_DevOps.jpg"></img></p>
+          <p><img src="img/Embracing_DevOps.jpg"></img></p>
           <br></br>
           <h1 className="hero__title">{siteConfig.title}</h1>
           <br></br>
