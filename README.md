@@ -28,60 +28,29 @@ ___
 ## Description
 ```
 
-## Markdown Examples
+You can also include the Nodes if doing MDX with the following block:
 
-Really, this stuff is just a reminder of some quick tips for Markdown
+```mdx
+___
 
-### Tables
+import Tabs from '@theme/Tabs';
 
-Colons can be used to align columns.
+import TabItem from '@theme/TabItem';
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| Chef          | is neat       |    $1 |
+:::note Notes:
 
-### Lines
+<Tabs
+  defaultValue="notes"
+  values={[
+    {label: 'Expand', value: 'expand'},
+    {label: 'Collapse', value: 'collapse'}
+  ]}>
+  <TabItem value="expand">
 
-Three or more... \-\-\-
+  ## Notes for this Slide
 
----
+  </TabItem>
+</Tabs>
 
-Hyphens
-
-`***`
-
-Asterisks \*\*\*
-
-`___`
-
-Underscores \_\_\_
-
-### Code / Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-blocks of code use \`\`\` [ code here ] \`\`\` to open/close the block
-
-```code
-This
-is
-code
+:::
 ```
-
-### Links
-
-Links are easy:
-
-`[Title Here](link_here)`
-
-[This link to Google!](https://www.google.com)
-
-## Maintainers (Authors)
-
-- [Mike Butler](mailto:mbutler@optum.com) on [GitHub](https://github.optum.com/mbutl11)
-
-or alternately:
-
-- [snohio](mailto:snohio@gmail.com) on [GitHub](https://github.com/snohio)

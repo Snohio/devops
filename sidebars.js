@@ -1,8 +1,8 @@
 module.exports = {
-  sagaBegins: {
+  devopsJourney: {
     'The Saga Begins': ['journey/begins','journey/history','journey/hpsa','journey/foglight','journey/aha','journey/chef'],
-  },
-  awakenings: {
-    'DevOps Awakenings': ['devops/awakens'],
+    'DevOps Into Practice': ['practice/awakens','practice/dogma','practice/practices'],
+    'Transformation Tips': ['transform/start'],
+    'Cooking up Awesomeness': ['chef/codecan'],
   }
 };

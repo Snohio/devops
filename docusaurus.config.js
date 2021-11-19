@@ -19,9 +19,9 @@ module.exports = {
             // hideOnScroll: true,
             items: [
                 { to: 'docs/journey/begins', label: 'The Saga Begins', position: 'right' },
-                { to: 'docs/devops/awakens', label: 'The Force Awakens', position: 'right' },
-                { to: 'docs/devops/awakens', label: 'A New Hope', position: 'right' },
-                { to: 'docs/devops/awakens', label: 'Rogue One', position: 'right' },
+                { to: 'docs/practice/awakens', label: 'DevOps Into Practice', position: 'right' },
+                { to: 'docs/transform/start', label: 'Transformation Tips', position: 'right' },
+                { to: 'docs/chef/codecan', label: 'Cooking Up Awesomeness', position: 'right' },
             ],
         },
         footer: {

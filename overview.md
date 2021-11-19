@@ -12,24 +12,15 @@
 - When I got the Aha Moment
 - How I build the team around a DevOps model
   - Including International efforts
-- DevOps Practices
-  - *Everything* as Code (in GitHub). Documentation, Notes, Issues, Projects.
-  - Kanban / Agile: Iterations, iterations, iterations.
-  - ChatOps (alerts, notifications, visibility)
-  - Stand-ups, Demos, Celebrations, Retrospectives, Post Incident Reviews
-    - Some of this is easier in theory than practice.
-    - This is the stuff that really takes practice.
+
+## How DevOps helped drive Chef
+
+### aka Putting what I learned into Practice
+
 - My mantras
   - No Handoffs.
   - Make Work Visible to Everyone.
   - Communication Makes the Team Work!
-
-## How DevOps help drive Chef
-
-- Development of DoesAPI - What it started as, what it became
-- Chef Pipeline and the Jenkins Rebuild from Scratch story
-- Self Healing failure story
-  - Failing is an Option and how and when to pivot.
 - DevOps Practices and Principles that we employed. What worked, what didn't.
   - *Everything* as Code (in GitHub). Documentation, Notes, Issues, Projects.
   - Kanban / Agile: Iterations, iterations, iterations.
@@ -37,6 +28,10 @@
   - Stand-ups, Demos, Celebrations, Retrospectives, Post Incident Reviews
     - Some of this is easier in theory than practice.
     - This is the stuff that really takes practice.
+- Development of DoesAPI - What it started as, what it became
+- Chef Pipeline and the Jenkins Rebuild from Scratch story
+- Self Healing failure story
+  - Failing is an Option and how and when to pivot.
 - Building a Community of Practice
 
 ## DevOps Transformation - Where can you start?
@@ -57,9 +52,15 @@
 
 ## How Chef can help drive DevOps
 
-- Remember, all of this below it iterative
+- Infrastructure and Policy as Code is a great start!
+- Remember, all of this below is iterative
 - Start with the Tests!
-  - Inspec is a great tool for 
+  - Inspec with Test Kitchen is a great tool for checking your outcomes, even if it is not Chef.
+- Hands Off Servers (No SSH/RDP) Should be a goal
 - Long term goal is immutability.
   - Yes, you can have immutability with managed VMs with Chef!
+- Communities of Practice
+  - Hold Office Hours
+- Create common Community Cookbooks
+  - Great for Shared LOB Application Support
 - Special notes!
