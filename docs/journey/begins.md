@@ -37,7 +37,9 @@ import TabItem from '@theme/TabItem';
   <TabItem value="expand">
 
 ## Notes for this Slide
+
 ### About this presentation
+
 This presentation is intended to be a four part series on my DevOps Journey focused around the deployment, usage, and socializtion of Chef.
 
 The first part is focused on my backstory, what worked looked like, that time I discovered the DevOps Community, the building of a team to utilize practices and principles that I had discoverd.

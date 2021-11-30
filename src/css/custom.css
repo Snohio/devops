@@ -69,3 +69,8 @@
 .navbar-highlight{
   color: #000;
 }
+
+img { display: block; }
+img.wrap { max-width: 70%; margin: 30px 0px; }
+img.align-right { float: right; margin-left: 25px; }
+img.align-left { float: left; margin-right: 100px; }

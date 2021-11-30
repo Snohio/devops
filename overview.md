@@ -21,19 +21,22 @@
   - No Handoffs.
   - Make Work Visible to Everyone.
   - Communication Makes the Team Work!
+- The Team Make Up
 - DevOps Practices and Principles that we employed. What worked, what didn't.
-  - *Everything* as Code (in GitHub). Documentation, Notes, Issues, Projects.
   - Kanban / Agile: Iterations, iterations, iterations.
+    - Eventually landed on our own form of Scrumban
   - ChatOps (alerts, notifications, visibility)
   - Stand-ups, Demos, Celebrations, Retrospectives, Post Incident Reviews
     - Some of this is easier in theory than practice.
     - This is the stuff that really takes practice.
+  - *Everything* as Code (in GitHub). Documentation, Notes, Issues, Projects.
+  - Failure is always an Option - as long as you learn from it as a group.
+    - Self Healing failure story - Know when to pivot.
 - Development of DoesAPI - What it started as, what it became
-- Chef Pipeline and the Jenkins Rebuild from Scratch story
-- Self Healing failure story
-  - Failing is an Option and how and when to pivot.
 - Building a Community of Practice
-
+  - Combining the Chef Community team with my Infrastructure Team
+- Chef Pipeline and the Jenkins Rebuild from Scratch story
+  
 ## DevOps Transformation - Where can you start?
 
 - Start Small. Iterations are everything in Agile Delivery and DevOps! Why should the transformation be different.

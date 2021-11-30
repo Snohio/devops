@@ -31,7 +31,6 @@ The Speakers Were Amazing - [Program Link](https://devopsdays.org/events/2016-na
 
 ___
 
-
 import Tabs from '@theme/Tabs';
 
 import TabItem from '@theme/TabItem';
