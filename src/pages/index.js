@@ -51,7 +51,12 @@ function Home() {
               to={useBaseUrl('docs/journey/begins')}>
               Let the Saga Begin
             </Link>
+            <br></br>
           </div>
+           <Link
+              to={useBaseUrl('remark.html')}>
+              Slide Version
+            </Link>
         </div>
       </header>
       <main>

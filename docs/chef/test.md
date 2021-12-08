@@ -1,23 +1,23 @@
 ---
-id: codecan
-title: It All Starts with Code 
-sidebar_label: Code Can!
+id: test
+title: Focus on Testing First 
+sidebar_label: Test First
 ---
 ___
 
 <img src='../../img/chef/codecan.png' alt="Code Can!" align="right" />
 
-## Infrastructure as Code
+## Codify your Policies
 
-- Getting your configurations codified
-- Get them into Git
-- Publish Community Cookbooks
+- Take your Compute Policies and write Inspec
+- Again, Get them into Git
+- Share with the Community
 
-## Reminder to Iterate
+## DevSecOps Transformation
 
-- Start simple
-- Create Requirements in User Stories
-- Break it down and work in small bits
+- This is really your Security
+- Apply to Existing Systems
+- Write your Enforcements (IaC)
 
 ___
 
